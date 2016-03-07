@@ -17,6 +17,7 @@ module.exports = {
     'no-new':               0,
     'no-process-env':       0,
     'vars-on-top':          0,
+    'no-param-reassign':    0, // decided I am okay with this
 
     'no-invalid-this':              1,
     'no-loop-func':                 1,
@@ -55,7 +56,6 @@ module.exports = {
     'no-new-wrappers':       2,
     'no-octal':              2,
     'no-octal-escape':       2,
-    'no-param-reassign':     2,
     'no-proto':              2,
     'no-redeclare':          2,
     'no-script-url':         2,
