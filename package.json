@@ -1,0 +1,47 @@
+{
+  "name": "eslint-config-rhett",
+  "version": "0.1.0",
+  "description": "Rhett's ESLint shareable config",
+  "license": "MIT",
+  "repository": "rhettl/eslint-config-rhett",
+  "author": {
+    "name": "Rhett Lowe",
+    "email": "rhett@rhettl.com",
+    "url": "rhettl.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {},
+  "files": [
+    "index.js",
+    "esnext.js",
+    "browser.js"
+  ],
+  "keywords": [
+    "❤️",
+    "eslintconfig",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "jscs",
+    "jshint",
+    "jslint",
+    "eslint",
+    "validate",
+    "code style",
+    "standard",
+    "strict",
+    "check",
+    "checker",
+    "verify",
+    "enforce",
+    "hint",
+    "simple"
+  ],
+  "peerDependencies": {
+    "eslint": ">=2.3.0"
+  }
+}
